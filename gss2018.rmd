@@ -193,5 +193,6 @@ chisqtestGC(~COURTS+CAPPUN, data=mydata3)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+Using various statistical methods such as Chi-squared test, bargraphs, and crosstabulations we showed the correlations of the information given, furthermore these methods helped us clearly see how each set of information is realted to the test performed. 
 
 
